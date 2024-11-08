@@ -1,4 +1,4 @@
-# Awesome Gsap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GSAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources, tutorials, and tools for GSAP (GreenSock Animation Platform).
 
